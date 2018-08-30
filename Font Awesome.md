@@ -1,4 +1,8 @@
+用Font Awesome装饰Markdown
+
 <i class="fa fa-weixin"></i> ckjbug
+
+
 
 <head> 
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
