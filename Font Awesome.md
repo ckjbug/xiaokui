@@ -1,6 +1,6 @@
 用Font Awesome装饰Markdown
 
-<i class="fa fa-weixin"></i> ckjbug
+<i class="fa fa-weixin"></i>[ckjbug](https://...)
 
 
 
