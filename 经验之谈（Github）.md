@@ -13,7 +13,7 @@ IT 团体和研究团体。
 
 ------------
 ### VS+Github做好项目的版本控制
-
+![](https://www.easyicon.net/api/resizeApi.php?id=1217933&size=128)
 
 ------------
 ### Github Pages快速上手
