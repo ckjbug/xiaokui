@@ -1,7 +1,7 @@
 ## 我在GitHub上遇到的坑儿
 
 <div align="center">
-    <img src="https://www.easyicon.net/api/resizeApi.php?id=1181081&size=128" width="200px">
+    <img src="https://www.easyicon.net/api/resizeApi.php?id=1181081&size=128" width="240px">
     <br>
 </div>
 
@@ -23,7 +23,7 @@ IT 团体和研究团体。
 
 ------------
 ### Github Pages快速上手
-
+![](https://www.easyicon.net/api/resizeApi.php?id=1173875&size=128)
 
 ------------
 ### 十分钟了解Git语法
