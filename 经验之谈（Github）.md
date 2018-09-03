@@ -1,4 +1,10 @@
 ## 我在GitHub上遇到的坑儿
+
+<div align="center">
+    <img src="https://www.easyicon.net/api/resizeApi.php?id=1181081&size=128" width="400px">
+    <br>
+</div>
+
 ### Summary
 ### 介绍一些新手不为所知的Tips
 
@@ -21,4 +27,4 @@ IT 团体和研究团体。
 
 ------------
 ### 十分钟了解Git语法
-
+![](https://www.easyicon.net/api/resizeApi.php?id=580357&size=128)
