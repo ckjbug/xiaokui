@@ -2,7 +2,7 @@
 天道酬勤
 ### 程序员成长之路-全栈工程师
 <div align="center">
-    <img src="https://www.easyicon.net/api/resizeApi.php?id=5323&size=72" width="1800px"> 
+    <img src="https://www.easyicon.net/api/resizeApi.php?id=5323&size=72" width="180px"> 
 </div>
 
 
