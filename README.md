@@ -1,5 +1,5 @@
 ## xiaokui 
-![](https://www.easyicon.net/api/resizeApi.php?id=5323&size=72)天道酬勤
+天道酬勤
 ### 程序员成长之路-全栈工程师
 <div align="center">
     <img src="https://www.easyicon.net/api/resizeApi.php?id=1125428&size=128" width="72px"> 
@@ -32,3 +32,7 @@ Edit on 10 Dec 2016 by ckj
 还是的一步一步来，以前总觉得能拿别人撞得头破血流的经验作为自己的经验，但现在才明白该走的路一步都不能少。加油！
 
 Edit on 4 Sept 2018 by ckj
+
+---------------
+
+![](https://www.easyicon.net/api/resizeApi.php?id=5323&size=72)
