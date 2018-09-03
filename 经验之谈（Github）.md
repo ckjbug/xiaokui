@@ -1,7 +1,7 @@
 ## 我在GitHub上遇到的坑儿
 
 <div align="center">
-    <img src="https://www.easyicon.net/api/resizeApi.php?id=1181081&size=128" width="400px">
+    <img src="https://www.easyicon.net/api/resizeApi.php?id=1181081&size=128" width="200px">
     <br>
 </div>
 
