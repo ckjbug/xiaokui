@@ -6,7 +6,7 @@
 
 -----------
 
-### Markdown高级语法
+### Markdown高阶语法
 
 
 GitHub 徽标的官方网站[Shields.io](https://shields.io/#/)使用教程：
