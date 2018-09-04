@@ -9,9 +9,7 @@
 ### Markdown高级语法
 
 
-Shields.io使用教程：
-
-[官网](https://shields.io/#/)
+GitHub 徽标的官方网站[Shields.io](https://shields.io/#/)使用教程：
 
 <div align="center">
     <img src="https://i.imgur.com/9c7k20y.png">
