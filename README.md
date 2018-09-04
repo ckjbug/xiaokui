@@ -33,6 +33,10 @@ Edit on 10 Dec 2016 by ckj
 
 Edit on 4 Sept 2018 by ckj
 
+　　人生最绝望的时候，是当你拿出兜里仅存的三块钱买了瓶饮料，开盖不仅没有“再来一瓶”，而连个“谢谢惠顾”都没有。
+
 ---------------
+
+  
 
 ![](https://www.easyicon.net/api/resizeApi.php?id=5323&size=72)
