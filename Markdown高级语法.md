@@ -11,7 +11,7 @@
 
 Shields.io使用教程：
 
-![官网](https://shields.io/#/)
+[官网](https://shields.io/#/)
 
 <div align="center">
     <img src="https://i.imgur.com/9c7k20y.png">
