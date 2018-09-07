@@ -25,7 +25,9 @@ IT 团体和研究团体。
 ### Github Pages快速上手
 ![](https://www.easyicon.net/api/resizeApi.php?id=1173875&size=128)
 
-[GitHub Pages 搭建网站](http://gitbeijing.com/pages.html)
+[Github Pages 官方网站](https://pages.github.com/)
+
+[GitHub Pages 搭建教程](http://gitbeijing.com/pages.html)
 
 ------------
 ### 十分钟了解Git语法
