@@ -17,7 +17,7 @@ IT 团体和研究团体。
 可以在Education GitHub官网下申请，当然，你得先申请一个教育邮箱，然后验证学生身份即可。国内除了少部分双一流高校会给学生提供教育邮箱和VPN，双非学生大都是没有的。而且国外有些知名企业提供的教育优惠政策对国内并不支持。所以注册一个国外的教育邮箱就可以解决这一问题了。
 
 - [Education Github URL](https：//education.github.com/)
-- [如何申请一个教育邮箱？]()
+- [如何申请一个教育邮箱？](https://github.com/ckjbug/xiaokui/blob/master/%E6%95%99%E8%82%B2%E7%94%B5%E9%82%AE/How%20to%20apply%20for%20an%20education%20email%20address.md)
 - [教育邮箱的好处有哪些？](https://github.com/ckjbug/xiaokui/blob/master/%E6%95%99%E8%82%B2%E7%94%B5%E9%82%AE/What%20are%20the%20benefits%20of%20education%20mailboxes.md)
 
 ------------
