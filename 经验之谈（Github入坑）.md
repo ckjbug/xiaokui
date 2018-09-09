@@ -14,12 +14,12 @@ GitHub私人仓库可以不要收费，但前提是你必须是学生，哈哈�
 ）。所以还是有很多空子可以钻的，其实钻空子倒也不是，反正看自己怎么用了，GitHub 上的学术优惠和 GitHub Enterprise ，可用于很多学术地方，包括：学校管理、
 IT 团体和研究团体。
 
-可以在GitHub官网下申请URL ：https：//education.github.com/
+可以在GitHub官网下申请[Education Github URL](https：//education.github.com/)
 
 当然，你得申请一个教育邮箱，然后验证学生身份即可。
 
-- [关于如何申请一个教育邮箱？]()
-- [教育邮箱的好处。]()
+- [如何申请一个教育邮箱？]()
+- [教育邮箱的好处有哪些？]()
 
 ------------
 ### VS+Github做好项目的版本控制
