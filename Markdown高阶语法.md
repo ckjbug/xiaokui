@@ -8,13 +8,26 @@
 
 ### Markdown高阶语法
 
+#### Markdown的扩展语法，使用GitHub徽标，SVG，Font Awesome，emoji等装饰Markdown。
 
-GitHub 徽标的官方网站[Shields.io](https://shields.io/#/)使用教程：
+##### 一，GitHub 徽标的官方网站[Shields.io](https://shields.io/#/)使用教程：
 
 <div align="center">
     <img src="https://i.imgur.com/9c7k20y.png">
     <br>
 </div>
+
+##### 二，License是什么？有哪几种License？有什么用？该怎么添加？
+
+- License是什么？
+> License就是开源许可证，开源许可证即授权条款，也可以说是一个开源项目的协议，开源软件并非完全没有限制。最基本的限制，就是开源软件强迫任何使用和修改该软件的人承认发起人的著作权和所有参与人的贡献。任何人拥有可以自由复制、修改、使用这些源代码的权利，不得设置针对任何人或团体领域的限制；不得限制开源软件的商业使用等。而许可证就是这样一个保证这些限制的法律文件。
+- 常见的License有那种？
+> MIT 许可证 -- 只要用户在项目副本中包含了版权声明和许可声明，他们就可以拿你的代码做任何想做的事情，你也无需承担任何责任。
+> Apache 许可证 -- 类似 MIT 许可证，但它同时还包含了贡献者向用户提供专利授权相关的条款。
+> GPL 许可证 -- 这是一种copyleft许可证，要求修改项目代码的用户再次分发源码或二进制代码时，必须公布他的相关修改。V3版本与V2类似，但其进一步约束了在某些限制软件更改的硬件上的使用范围。
+
+
+
 
 参考链接：
 
@@ -25,9 +38,7 @@ GitHub 徽标的官方网站[Shields.io](https://shields.io/#/)使用教程：
 [GitHub项目徽章的添加和设置](http://www.cocoachina.com/programmer/20170512/19256.html)
 
 
-------------------------
-
-### Markdown编辑器有哪些？
+#### 三，Markdown编辑器有哪些？
 
 我使用过好几种Markdown编辑器，各有各的优点，按照我的体验给大家推荐。
 
