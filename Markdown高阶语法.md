@@ -34,7 +34,7 @@ GitHub 徽标的官方网站[Shields.io](https://shields.io/#/)使用教程：
 - MarkdownPad2
 - Acrylic Markdown
 - MarkdownEditor
-- 
+- Typora
 
 
 
