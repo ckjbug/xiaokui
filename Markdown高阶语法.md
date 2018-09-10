@@ -43,22 +43,22 @@
 1 给一个新建的仓库添加许可证
 
 <div align="center">
-    <img src="https://i.imgur.com/hK5PBL3.png" width="400px">
+    <img src="https://i.imgur.com/hK5PBL3.png" width="700px">
     <br>
 </div>
 
 2 给一个已经建好的仓库添加许可证
 
 <div align="center">
-    <img src="https://i.imgur.com/QUk0yXm.png" width="400px">
+    <img src="https://i.imgur.com/QUk0yXm.png" width="700px">
     <br>
 </div>
 <div align="center">
-    <img src="https://i.imgur.com/xiM5HUu.png" width="400px">
+    <img src="https://i.imgur.com/xiM5HUu.png" width="700px">
     <br>
 </div>
 <div align="center">
-    <img src="https://i.imgur.com/cSqKfDA.png" width="400px">
+    <img src="https://i.imgur.com/cSqKfDA.png" width="700px">
     <br>
 </div>
 
