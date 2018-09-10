@@ -75,19 +75,23 @@
 - Typora
 
 
-MarkdownPad2  功能比较齐全，有时候需要下载安装一个[Awesomium SDK](https://blog.csdn.net/joyhen/article/details/41577193)才能加载。专业版需要收费，用起来的确比较舒服，但表格有时候渲染不出来。
+MarkdownPad2  
+  功能比较齐全，有时候需要下载安装一个[Awesomium SDK](https://blog.csdn.net/joyhen/article/details/41577193)才能加载。专业版需要收费，用起来的确比较舒服，但表格有时候渲染不出来。
 
 ![](https://i.imgur.com/SQ0Wrkb.png)
 
-Acrylic Markdown  微软家的UWP应用，收费，我花了20RMB买了一个，发现用起来还不错，而且能够直接上传文章到博客（WordPress和Medium），软件也在持续更新中，期待发布更多的功能模块。
+Acrylic Markdown  
+  微软家的UWP应用，收费，我花了20RMB买了一个，发现用起来还不错，而且能够直接上传文章到博客（WordPress和Medium），软件也在持续更新中，期待发布更多的功能模块。
 
 ![](https://i.imgur.com/fKDkxZo.png)
 
-MarkdownEditor  我最开始使用的一款Markdown编辑器，比较轻量级而且免安装，不到2M的一个应用，功能虽然没有那么多，但是更能专注地写作。
+MarkdownEditor  
+  我最开始使用的一款Markdown编辑器，免费，比较轻量级而且免安装，不到2M的一个应用，功能虽然没有那么多，但是更能专注地写作。
 
 ![](https://i.imgur.com/Budo9Nx.png)
 
-Typora  朋友推荐的，免费，要安装，界面比较简单，但是功能很丰富，主题也挺多的，推荐大家使用。
+Typora  
+  朋友推荐的，免费，要安装，界面比较简单，但是功能很丰富，主题也挺多的，推荐大家使用。
 
 ![](https://i.imgur.com/QLejvAh.png)
 
