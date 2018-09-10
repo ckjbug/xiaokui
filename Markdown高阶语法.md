@@ -50,13 +50,15 @@
 > 给一个已经建好的仓库添加许可证
 
 <div align="center">
-    <img src="https://i.imgur.com/QUk0yXm.png" width="700px">
+    <img src="https://i.imgur.com/QUk0yXm.png" width="680px">
     <br>
 </div>
+
 <div align="center">
-    <img src="https://i.imgur.com/xiM5HUu.png" width="700px">
+    <img src="https://i.imgur.com/xiM5HUu.png" width="680px">
     <br>
 </div>
+
 <div align="center">
     <img src="https://i.imgur.com/cSqKfDA.png" width="700px">
     <br>
@@ -82,8 +84,10 @@ MarkdownPad2
 
 Acrylic Markdown  
   微软家的UWP应用，收费，我花了20RMB买了一个，发现用起来还不错，而且能够直接上传文章到博客（WordPress和Medium），软件也在持续更新中，期待发布更多的功能模块。
-
-![](https://i.imgur.com/fKDkxZo.png)
+<div align="left">
+    <img src="https://i.imgur.com/fKDkxZo.png" width="100px">
+    <br>
+</div>
 
 MarkdownEditor  
   我最开始使用的一款Markdown编辑器，免费，比较轻量级而且免安装，不到2M的一个应用，功能虽然没有那么多，但是更能专注地写作。
