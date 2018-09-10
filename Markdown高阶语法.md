@@ -40,14 +40,14 @@
 > GPL 许可证 -- 这是一种copyleft许可证，要求修改项目代码的用户再次分发源码或二进制代码时，必须公布他的相关修改。V3版本与V2类似，但其进一步约束了在某些限制软件更改的硬件上的使用范围。
 - 怎么给一个开源项目添加License？
 
-1 给一个新建的仓库添加许可证
+> 给一个新建的仓库添加许可证
 
 <div align="center">
     <img src="https://i.imgur.com/hK5PBL3.png" width="700px">
     <br>
 </div>
 
-2 给一个已经建好的仓库添加许可证
+> 给一个已经建好的仓库添加许可证
 
 <div align="center">
     <img src="https://i.imgur.com/QUk0yXm.png" width="700px">
@@ -73,6 +73,24 @@
 - Acrylic Markdown
 - MarkdownEditor
 - Typora
+
+
+MarkdownPad2  功能比较齐全，有时候需要下载安装一个[Awesomium SDK](https://blog.csdn.net/joyhen/article/details/41577193)才能加载。专业版需要收费，用起来的确比较舒服，但表格有时候渲染不出来。
+
+![](https://i.imgur.com/SQ0Wrkb.png)
+
+Acrylic Markdown  微软家的UWP应用，收费，我花了20RMB买了一个，发现用起来还不错，而且能够直接上传文章到博客（WordPress和Medium），软件也在持续更新中，期待发布更多的功能模块。
+
+![](https://i.imgur.com/fKDkxZo.png)
+
+MarkdownEditor  我最开始使用的一款Markdown编辑器，比较轻量级而且免安装，不到2M的一个应用，功能虽然没有那么多，但是更能专注地写作。
+
+![](https://i.imgur.com/Budo9Nx.png)
+
+Typora  朋友推荐的，免费，要安装，界面比较简单，但是功能很丰富，主题也挺多的，推荐大家使用。
+
+![](https://i.imgur.com/QLejvAh.png)
+
 
 
 -----------------------
