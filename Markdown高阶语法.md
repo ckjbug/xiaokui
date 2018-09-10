@@ -85,7 +85,7 @@ MarkdownPad2
 Acrylic Markdown  
   微软家的UWP应用，收费，我花了20RMB买了一个，发现用起来还不错，而且能够直接上传文章到博客（WordPress和Medium），软件也在持续更新中，期待发布更多的功能模块。
 <div align="left">
-    <img src="https://i.imgur.com/fKDkxZo.png" width="100px">
+    <img src="https://i.imgur.com/fKDkxZo.png" width="98px">
     <br>
 </div>
 
@@ -102,4 +102,6 @@ Typora
 
 
 -----------------------
+
+#### 四，
 
