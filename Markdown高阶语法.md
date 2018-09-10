@@ -17,6 +17,15 @@
     <br>
 </div>
 
+参考链接：
+
+[Github上常见的徽章标签和进度条](https://shikieiki.github.io/2017/03/01/%E4%B8%BA%E4%BD%A0%E7%9A%84Github%E7%94%9F%E6%88%90%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BE%BD%E7%AB%A0%E5%92%8C%E8%BF%9B%E5%BA%A6%E6%9D%A1/)
+
+[GitHub项目徽章的添加和设置](http://www.mdslq.cn/archives/b687dd8f.html)
+
+[GitHub项目徽章的添加和设置](http://www.cocoachina.com/programmer/20170512/19256.html)
+
+
 #### 二，License是什么？有哪几种License？有什么用？该怎么添加？
 
 - License是什么？
@@ -28,16 +37,6 @@
 > 
 > GPL 许可证 -- 这是一种copyleft许可证，要求修改项目代码的用户再次分发源码或二进制代码时，必须公布他的相关修改。V3版本与V2类似，但其进一步约束了在某些限制软件更改的硬件上的使用范围。
 
-
-
-
-参考链接：
-
-[Github上常见的徽章标签和进度条](https://shikieiki.github.io/2017/03/01/%E4%B8%BA%E4%BD%A0%E7%9A%84Github%E7%94%9F%E6%88%90%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BE%BD%E7%AB%A0%E5%92%8C%E8%BF%9B%E5%BA%A6%E6%9D%A1/)
-
-[GitHub项目徽章的添加和设置](http://www.mdslq.cn/archives/b687dd8f.html)
-
-[GitHub项目徽章的添加和设置](http://www.cocoachina.com/programmer/20170512/19256.html)
 
 
 #### 三，Markdown编辑器有哪些？
