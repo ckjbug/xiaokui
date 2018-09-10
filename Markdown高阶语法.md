@@ -25,6 +25,8 @@
 
 [GitHub项目徽章的添加和设置](http://www.cocoachina.com/programmer/20170512/19256.html)
 
+----------------------------
+
 
 #### 二，License是什么？有什么用？有哪几种License？该怎么添加？
 
@@ -37,18 +39,30 @@
 > 
 > GPL 许可证 -- 这是一种copyleft许可证，要求修改项目代码的用户再次分发源码或二进制代码时，必须公布他的相关修改。V3版本与V2类似，但其进一步约束了在某些限制软件更改的硬件上的使用范围。
 - 怎么给一个开源项目添加License？
+
 1 给一个新建的仓库添加许可证
 
-![](https://i.imgur.com/hK5PBL3.png)
+<div align="center">
+    <img src="https://i.imgur.com/hK5PBL3.png" width="400px">
+    <br>
+</div>
 
 2 给一个已经建好的仓库添加许可证
 
-![](https://i.imgur.com/QUk0yXm.png)
+<div align="center">
+    <img src="https://i.imgur.com/QUk0yXm.png" width="400px">
+    <br>
+</div>
+<div align="center">
+    <img src="https://i.imgur.com/xiM5HUu.png" width="400px">
+    <br>
+</div>
+<div align="center">
+    <img src="https://i.imgur.com/cSqKfDA.png" width="400px">
+    <br>
+</div>
 
-![](https://i.imgur.com/xiM5HUu.png)
-
-![](https://i.imgur.com/cSqKfDA.png)
-
+----------------------
 
 
 #### 三，Markdown编辑器有哪些？
@@ -61,4 +75,5 @@
 - Typora
 
 
+-----------------------
 
