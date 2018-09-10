@@ -6,18 +6,18 @@
 
 -----------
 
-### Markdown高阶语法
+## Markdown高阶语法
 
-#### Markdown的扩展语法，使用GitHub徽标，SVG，Font Awesome，emoji等装饰Markdown。
+### Markdown的扩展语法，使用GitHub徽标，SVG，Font Awesome，emoji等装饰Markdown。
 
-##### 一，GitHub 徽标的官方网站[Shields.io](https://shields.io/#/)使用教程：
+#### 一，GitHub 徽标的官方网站[Shields.io](https://shields.io/#/)使用教程：
 
 <div align="center">
     <img src="https://i.imgur.com/9c7k20y.png">
     <br>
 </div>
 
-##### 二，License是什么？有哪几种License？有什么用？该怎么添加？
+#### 二，License是什么？有哪几种License？有什么用？该怎么添加？
 
 - License是什么？
 > License就是开源许可证，开源许可证即授权条款，也可以说是一个开源项目的协议，开源软件并非完全没有限制。最基本的限制，就是开源软件强迫任何使用和修改该软件的人承认发起人的著作权和所有参与人的贡献。任何人拥有可以自由复制、修改、使用这些源代码的权利，不得设置针对任何人或团体领域的限制；不得限制开源软件的商业使用等。而许可证就是这样一个保证这些限制的法律文件。
