@@ -103,7 +103,7 @@ MarkdownEditor
 ![](https://i.imgur.com/Budo9Nx.png)
 
 Typora  
-  朋友推荐的，免费，要安装，界面比较简单，但是功能很丰富，主题也挺多的，推荐大家使用。
+  朋友推荐的，免费，要安装（软件挺大），界面比较简单，但是功能很丰富，主题也挺多的，最主要的是它可以View Page Source，像浏览器查看网页源码一样的功能，推荐大家使用。
 
 ![](https://i.imgur.com/QLejvAh.png)
 
