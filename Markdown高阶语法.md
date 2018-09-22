@@ -113,8 +113,12 @@ Typora
 
 ### 四，Markdown支持视音频
 
+其实Markdown是支持视频和音频的，但是Github不支持，所以也办法展示出来。但是你可以在本地的Markdown编辑器中写入下面的代码，就可以看到效果了。
+```
 <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
       <source id="mp4" src="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
       </video>
-
-
+```
+<video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
+      <source id="mp4" src="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
+      </video>
