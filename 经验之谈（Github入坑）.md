@@ -36,5 +36,7 @@ IT 团体和研究团体。
 ### 十分钟了解Git语法
 ![](https://www.easyicon.net/api/resizeApi.php?id=580357&size=128)
 
+[git笔记总结]()
+
 相关链接：  
 - [Git使用教程,最详细，最傻瓜，最浅显，真正手把手教](https://www.imooc.com/article/20411)
