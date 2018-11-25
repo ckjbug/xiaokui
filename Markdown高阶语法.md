@@ -105,11 +105,10 @@ MarkdownEditor
 Typora  
   朋友推荐的，免费，要安装（软件挺大），界面比较简单，但是功能很丰富，主题也挺多的，最主要的是它可以View Page Source，像浏览器查看网页源码一样的功能，推荐大家使用。
 
-[这里有更多关于Markdown编辑器的介绍](https://www.jianshu.com/p/3ac8453f55d2)
 
 ![](https://i.imgur.com/QLejvAh.png)
 
-
+[这里有更多关于Markdown编辑器的介绍](https://www.jianshu.com/p/3ac8453f55d2)
 
 -----------------------
 
