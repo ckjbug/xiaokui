@@ -3,9 +3,7 @@
 
 ## 记录心情，见证成长！
 
-<div align="center">
-    <img src="https://www.easyicon.net/api/resizeApi.php?id=1125428&size=128" width="72px"> 
-</div>
+------
 
 ⌨ 文章分类
 
@@ -20,7 +18,7 @@
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ckjbug/xiaokui/master/image/GIF/time.gif" > 
+    <img src="https://raw.githubusercontent.com/ckjbug/xiaokui/master/image/GIF/time.gif" width="240px"> 
 </div>
 
 Codeing The World！
