@@ -3,6 +3,10 @@
 
 ### 记录心情，见证成长！
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ckjbug/xiaokui/master/image/bloglogo.png"> 
+</div>
+
 ------
 
 ⌨ 文章分类
