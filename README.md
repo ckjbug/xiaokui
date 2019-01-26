@@ -21,7 +21,7 @@
 
 |          Ⅰ           |       Ⅱ       |            Ⅲ            |              Ⅳ               |         Ⅴ          |      Ⅵ       |         Ⅶ          |         Ⅷ          |             Ⅸ              |       Ⅹ        |
 | :------------------: | :-----------: | :---------------------: | :--------------------------: | :----------------: | :----------: | :----------------: | :----------------: | :------------------------: | :------------: |
-| [职业](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E6%82%9F.md) | [学习](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E5%AD%A6%E4%B9%A0.md) | [生活](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E5%85%A8%E6%A0%88.md) | [微晓](https://github.com/ckjbug/xiaokui/issues/2) | [+]() | [+]() | [+]() | [+]() | [+]() | [+]() |
+| [职业](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E6%82%9F.md) | [学习](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E5%AD%A6%E4%B9%A0.md) | [生活](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E7%94%9F%E6%B4%BB.md) | [微晓](https://github.com/ckjbug/xiaokui/issues/2) | [+]() | [+]() | [+]() | [+]() | [+]() | [+]() |
 
 
 
