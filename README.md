@@ -23,7 +23,6 @@
 | :------------------: | :-----------: | :---------------------: | :--------------------------: | :----------------: | :----------: | :----------------: | :----------------: | :------------------------: | :------------: |
 | [职业](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E6%82%9F.md) | [学习](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E5%AD%A6%E4%B9%A0.md) | [生活](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E7%94%9F%E6%B4%BB.md) | [微晓](https://github.com/ckjbug/xiaokui/issues/2) | [+]() | [+]() | [+]() | [+]() | [+]() | [+]() |
 
-<iframe src="https://channel9.msdn.com/Shows/On-NET/Introducing-XAML-Studio/player" width="960" height="540" allowFullScreen frameBorder="0"></iframe>
 
 Codeing The World！
 
