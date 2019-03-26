@@ -4,7 +4,7 @@
 ### 记录心情，见证成长！
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ckjbug/xiaokui/master/image/ckjbug.png"> 
+    <img src="https://raw.githubusercontent.com/ckjbug/xiaokui/master/image/mmm.jpg"> 
 </div>
 
 ------
