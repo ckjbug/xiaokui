@@ -20,6 +20,7 @@ IT 团体和研究团体。
 - [如何申请一个教育邮箱？](https://github.com/ckjbug/xiaokui/blob/master/%E6%95%99%E8%82%B2%E7%94%B5%E9%82%AE/How%20to%20apply%20for%20an%20education%20email%20address.md)
 - [教育邮箱的好处有哪些？](https://github.com/ckjbug/xiaokui/blob/master/%E6%95%99%E8%82%B2%E7%94%B5%E9%82%AE/What%20are%20the%20benefits%20of%20education%20mailboxes.md)
 
+------------
 > 使用快捷键快速操作Github网站
 ![](https://raw.githubusercontent.com/ckjbug/Github-Summary/master/Github%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E9%94%AE.jpg)
 
