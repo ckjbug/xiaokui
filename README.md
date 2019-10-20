@@ -26,7 +26,7 @@
 
 |          Ⅰ           |       Ⅱ       |            Ⅲ            |              Ⅳ               |         Ⅴ          |      Ⅵ       |         Ⅶ          |         Ⅷ          |             Ⅸ              |       Ⅹ        |
 | :------------------: | :-----------: | :---------------------: | :--------------------------: | :----------------: | :----------: | :----------------: | :----------------: | :------------------------: | :------------: |
-| [职业](https://github.com/ckjbug/awesome-freelancer) | [学习](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E5%AD%A6%E4%B9%A0.md) | [生活](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E7%94%9F%E6%B4%BB.md) | [微晓](https://github.com/ckjbug/xiaokui/issues/2) | [简历](https://github.com/ckjbug/Resume) | [.Net](https://github.com/1024-NET/CS-DotNet) | [++]() | [++]() | [++]() | [++]() |
+| [职业](https://github.com/ckjbug/awesome-freelancer) | [学习](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E5%AD%A6%E4%B9%A0.md) | [生活](https://github.com/ckjbug/xiaokui/blob/master/Record-mood/%E7%94%9F%E6%B4%BB.md) | [微晓](https://github.com/ckjbug/xiaokui/issues/2) | [简历](https://github.com/ckjbug/Resume) | [.Net](https://github.com/1024-NET/CS-DotNet) | [++++]() | [++++]() | [++++]() | [++++]() |
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/ckjbug/xiaokui/master/image/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%AB%99logo.png"> 
