@@ -32,7 +32,7 @@
 
 |          Ⅰ           |       Ⅱ       |            Ⅲ            |              Ⅳ               |         Ⅴ          |      Ⅵ       |         Ⅶ          |         Ⅷ          |             Ⅸ              |       Ⅹ        |
 | :------------------: | :-----------: | :---------------------: | :--------------------------: | :----------------: | :----------: | :----------------: | :----------------: | :------------------------: | :------------: |
-| [YouTube](https://www.youtube.com/channel/UCSoqiChE_zioYokJpfe9jFw/featured?view_as=subscriber) | [Twitter](https://twitter.com/ckjbug) | [Instagram](https://www.instagram.com/ckj_3927/) | [知乎](https://www.zhihu.com/people/xiao-kui-21-11/activities) | [公众号](data:text/html,微信公众号：Coding_Daily  快码一编) | [Bilibili](https://space.bilibili.com/29302915) | [微博](https://weibo.com/5674095094/profile?topnav=1&wvr=6) | [Pinterest](https://www.pinterest.com/ckjbug/) | [GitHub](https://github.com/ckjbug/) | [LinkedIn](https://www.linkedin.com/in/kuijun-chen-486850153/) |
+| [YouTube](https://www.youtube.com/channel/UCSoqiChE_zioYokJpfe9jFw/featured?view_as=subscriber) | [Twitter](https://twitter.com/ckjbug) | [Instagram](https://www.instagram.com/ckj_3927/) | [知乎](https://www.zhihu.com/people/xiao-kui-21-11/activities) | [公众号](data:text/html,Coding_Daily) | [Bilibili](https://space.bilibili.com/29302915) | [微博](https://weibo.com/5674095094/profile?topnav=1&wvr=6) | [Pinterest](https://www.pinterest.com/ckjbug/) | [GitHub](https://github.com/ckjbug/) | [LinkedIn](https://www.linkedin.com/in/kuijun-chen-486850153/) |
 
 
 Codeing The World！
