@@ -42,3 +42,10 @@
 Codeing The World！
 
 ![[](https://ckjbug.cnblogs.com/)](https://www.easyicon.net/api/resizeApi.php?id=5323&size=72)
+
+--------
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ckjbug/Catalog/master/image/coding_daily_n.jpg"> 
+</div>
+
