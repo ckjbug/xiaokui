@@ -30,7 +30,7 @@
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ckjbug/Catalog/master/image/coding_daily_n.jpg"> 
+    <img src="https://raw.githubusercontent.com/ckjbug/Catalog/master/image/coding_daily_n.jpg" width="600px"> 
 </div>
 
 
