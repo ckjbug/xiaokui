@@ -35,13 +35,6 @@
 
 
 
-📱社交频道
-
-|          Ⅰ           |       Ⅱ       |            Ⅲ            |              Ⅳ               |         Ⅴ          |      Ⅵ       |         Ⅶ          |         Ⅷ          |             Ⅸ              |       Ⅹ        |
-| :------------------: | :-----------: | :---------------------: | :--------------------------: | :----------------: | :----------: | :----------------: | :----------------: | :------------------------: | :------------: |
-| [YouTube](https://www.youtube.com/channel/UCSoqiChE_zioYokJpfe9jFw/featured?view_as=subscriber) | [Twitter](https://twitter.com/ckjbug) | [Instagram](https://www.instagram.com/thedreamspaces/) | [知乎](https://www.zhihu.com/people/IT_TI) | [公众号](https://github.com/ckjbug/xiaokui/blob/master/image/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/weichat.md) | [Bilibili](https://space.bilibili.com/29302915) | [微博](https://weibo.com/5674095094/profile?topnav=1&wvr=6) | [Pinterest](https://www.pinterest.com/ckjbug/) | [GitHub](https://github.com/ckjbug/) | [LinkedIn](https://www.linkedin.com/in/ckjbug/) |
-
-
 Codeing The World！
 
 ![[](https://ckjbug.cnblogs.com/)](https://www.easyicon.net/api/resizeApi.php?id=5323&size=72)
